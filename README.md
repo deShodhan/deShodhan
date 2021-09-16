@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Deepak Shodhan
+# Hi there 👋 I'm Deepak Shodhan 😄
 
 
-## wiefhucwe8fghv8y
+## Founder of [psychApp](bit.ly/get_pstchApp) 🧠
 
 
-#### you can also click [here](quora.com/profile/Ashish-Kulkarni-100) to view my Portfolio.
+#### • you can also click [here](quora.com/profile/Ashish-Kulkarni-100) to view my Portfolio.
 
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
